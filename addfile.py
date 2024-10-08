@@ -6,8 +6,3 @@ def addfunction (a,b):
 def divfunction (a,b):
     c = a/b
     return c
-
-
-def modfunction (a,b):
-    c = a%b
-    return c
