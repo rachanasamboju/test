@@ -1,3 +1,2 @@
-from addfile import addfunction
-from addfile import subfunction
-print(addfunction(6, 3))
+from addfile import divfunction
+print (divfunction(4,2))

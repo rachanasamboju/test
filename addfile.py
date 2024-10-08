@@ -5,3 +5,7 @@ def addfunction (a,b):
 def subfunction (a,b):
     c = a-b
     return c
+
+def divfunction (a,b):
+    c = a/b
+    return c
